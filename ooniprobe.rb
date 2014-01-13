@@ -1,6 +1,6 @@
 require 'formula'
 
-class OoniProbe < Formula
+class Ooniprobe < Formula
   homepage 'https://github.com/TheTorProject/ooni-probe'
   url 'https://github.com/TheTorProject/ooni-probe/archive/v1.0.0-rc6.tar.gz'
   sha1 'c246d58796340d143d07e41518f52a63d1370fd1'
